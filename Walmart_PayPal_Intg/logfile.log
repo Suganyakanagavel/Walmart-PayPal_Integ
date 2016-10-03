@@ -1,0 +1,1543 @@
+2016-09-24 23:06:13,100 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:06:13,100 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:06:13,100 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-24 23:06:13,100 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:06:13,100 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:06:13,447 INFO  [Log] Excel sheet opened 
+2016-09-24 23:06:13,447 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-24 23:06:15,449 INFO  [Log] New driver instantiated 
+2016-09-24 23:06:15,465 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-24 23:06:21,026 INFO  [Log] Web application launched successfully 
+2016-09-24 23:06:21,702 INFO  [Log] My Account link is found on the Home Page 
+2016-09-24 23:06:21,776 INFO  [Log] Click action is perfromed on My Account link 
+2016-09-24 23:06:21,837 INFO  [Log] Sigin link is found on the Home Page 
+2016-09-24 23:06:23,425 INFO  [Log] Click action is perfromed on SiginLink link 
+2016-09-24 23:06:23,426 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-24 23:06:23,426 INFO  [Log] X 
+2016-09-24 23:06:23,426 INFO  [Log] X 
+2016-09-24 23:06:23,426 INFO  [Log] X 
+2016-09-24 23:06:23,426 INFO  [Log] X 
+2016-09-24 23:07:02,465 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:07:02,466 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:07:02,466 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-24 23:07:02,466 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:07:02,466 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:07:02,829 INFO  [Log] Excel sheet opened 
+2016-09-24 23:07:02,829 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-24 23:07:04,940 INFO  [Log] New driver instantiated 
+2016-09-24 23:07:04,957 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-24 23:07:16,909 INFO  [Log] Web application launched successfully 
+2016-09-24 23:07:17,573 INFO  [Log] My Account link is found on the Home Page 
+2016-09-24 23:07:17,658 INFO  [Log] Click action is perfromed on My Account link 
+2016-09-24 23:07:17,721 INFO  [Log] Sigin link is found on the Home Page 
+2016-09-24 23:07:19,403 INFO  [Log] Click action is perfromed on SiginLink link 
+2016-09-24 23:07:19,404 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-24 23:07:19,404 INFO  [Log] X 
+2016-09-24 23:07:19,404 INFO  [Log] X 
+2016-09-24 23:07:19,404 INFO  [Log] X 
+2016-09-24 23:07:19,404 INFO  [Log] X 
+2016-09-24 23:38:13,739 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:38:13,739 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:38:13,739 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-24 23:38:13,739 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:38:13,739 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:38:14,096 INFO  [Log] Excel sheet opened 
+2016-09-24 23:38:14,096 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-24 23:38:16,245 INFO  [Log] New driver instantiated 
+2016-09-24 23:38:16,260 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-24 23:38:21,381 INFO  [Log] Web application launched successfully 
+2016-09-24 23:38:22,554 INFO  [Log] My Account link is found on the Home Page 
+2016-09-24 23:38:22,630 INFO  [Log] Click action is performed on My Account link 
+2016-09-24 23:38:22,693 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-24 23:38:24,371 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-24 23:38:24,373 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-24 23:38:24,373 INFO  [Log] X 
+2016-09-24 23:38:24,373 INFO  [Log] X 
+2016-09-24 23:38:24,373 INFO  [Log] X 
+2016-09-24 23:38:24,373 INFO  [Log] X 
+2016-09-24 23:53:49,600 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:53:49,601 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:53:49,601 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-24 23:53:49,601 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:53:49,601 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:53:49,972 INFO  [Log] Excel sheet opened 
+2016-09-24 23:53:49,972 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-24 23:53:52,085 INFO  [Log] New driver instantiated 
+2016-09-24 23:53:52,098 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-24 23:53:57,533 INFO  [Log] Web application launched successfully 
+2016-09-24 23:53:58,506 INFO  [Log] My Account link is found on the Home Page 
+2016-09-24 23:53:58,577 INFO  [Log] Click action is performed on My Account link 
+2016-09-24 23:53:58,644 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-24 23:54:00,263 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-24 23:54:00,271 INFO  [Log] Username text box is found on the Login Page 
+2016-09-24 23:54:00,672 INFO  [Log] suryasomasundar@gmail.com is entered in UserName text box 
+2016-09-24 23:54:00,803 INFO  [Log] Password text box is found on the Login page 
+2016-09-24 23:54:01,106 INFO  [Log] surya999 is entered in Password text box 
+2016-09-24 23:54:01,112 INFO  [Log] Sign In button is found on the Login page 
+2016-09-24 23:54:01,499 INFO  [Log] Click action is performed on Submit button 
+2016-09-24 23:54:01,499 INFO  [Log] SignIn Action is successfully perfomred 
+2016-09-24 23:54:01,500 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-09-24 23:54:01,500 INFO  [Log] X 
+2016-09-24 23:54:01,500 INFO  [Log] X 
+2016-09-24 23:54:01,500 INFO  [Log] X 
+2016-09-24 23:54:01,500 INFO  [Log] X 
+2016-09-24 23:54:25,645 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:54:25,645 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:54:25,645 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-24 23:54:25,645 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:54:25,645 INFO  [Log] **************************************************************************************** 
+2016-09-24 23:54:26,001 INFO  [Log] Excel sheet opened 
+2016-09-24 23:54:26,001 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-24 23:54:28,077 INFO  [Log] New driver instantiated 
+2016-09-24 23:54:28,094 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-24 23:54:33,494 INFO  [Log] Web application launched successfully 
+2016-09-24 23:54:34,794 INFO  [Log] My Account link is found on the Home Page 
+2016-09-24 23:54:34,873 INFO  [Log] Click action is performed on My Account link 
+2016-09-24 23:54:34,931 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-24 23:54:37,143 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-24 23:54:37,150 INFO  [Log] Username text box is found on the Login Page 
+2016-09-24 23:54:37,492 INFO  [Log] suryasomasundar@gmail.com is entered in UserName text box 
+2016-09-24 23:54:37,600 INFO  [Log] Password text box is found on the Login page 
+2016-09-24 23:54:37,767 INFO  [Log] surya999 is entered in Password text box 
+2016-09-24 23:54:37,774 INFO  [Log] Sign In button is found on the Login page 
+2016-09-24 23:54:37,932 INFO  [Log] Click action is performed on Submit button 
+2016-09-24 23:54:37,932 INFO  [Log] SignIn Action is successfully perfomred 
+2016-09-25 00:09:08,402 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:09:08,403 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:09:08,403 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 00:09:08,403 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:09:08,403 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:09:08,771 INFO  [Log] Excel sheet opened 
+2016-09-25 00:09:08,771 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 00:09:11,059 INFO  [Log] New driver instantiated 
+2016-09-25 00:09:11,075 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 00:09:16,431 INFO  [Log] Web application launched successfully 
+2016-09-25 00:09:17,106 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 00:09:17,180 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 00:09:17,243 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 00:09:18,886 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 00:09:18,894 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 00:09:19,253 INFO  [Log] suryasomasundar@gmail.com is entered in UserName text box 
+2016-09-25 00:09:19,362 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 00:09:19,536 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 00:09:19,542 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 00:09:19,720 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 00:09:19,721 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 00:12:51,126 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:12:51,127 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:12:51,127 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 00:12:51,127 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:12:51,127 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:12:51,468 INFO  [Log] Excel sheet opened 
+2016-09-25 00:12:51,468 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 00:12:53,419 INFO  [Log] New driver instantiated 
+2016-09-25 00:12:53,434 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 00:12:59,286 INFO  [Log] Web application launched successfully 
+2016-09-25 00:12:59,957 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 00:13:00,031 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 00:13:00,092 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 00:13:01,798 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 00:13:01,810 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 00:13:02,141 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 00:13:02,250 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 00:13:02,578 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 00:13:02,585 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 00:13:02,972 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 00:13:02,972 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 00:41:18,830 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:41:18,830 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:41:18,830 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 00:41:18,830 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:41:18,830 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:41:19,191 INFO  [Log] Excel sheet opened 
+2016-09-25 00:41:19,191 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 00:41:21,530 INFO  [Log] New driver instantiated 
+2016-09-25 00:41:21,549 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 00:42:35,188 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:42:35,188 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:42:35,188 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 00:42:35,188 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:42:35,188 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:42:35,537 INFO  [Log] Excel sheet opened 
+2016-09-25 00:42:35,537 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 00:42:37,438 INFO  [Log] New driver instantiated 
+2016-09-25 00:42:37,451 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 00:43:00,103 INFO  [Log] Web application launched successfully 
+2016-09-25 00:43:00,884 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 00:43:00,966 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 00:43:01,024 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 00:43:01,102 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 00:43:02,646 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 00:43:03,365 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 00:43:03,370 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 00:43:03,541 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 00:43:03,650 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 00:43:03,882 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 00:43:03,882 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 00:43:29,175 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 00:43:29,175 ERROR [Log] Error 
+2016-09-25 00:45:34,482 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:45:34,482 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:45:34,483 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 00:45:34,483 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:45:34,483 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:45:34,855 INFO  [Log] Excel sheet opened 
+2016-09-25 00:45:34,855 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 00:45:37,064 INFO  [Log] New driver instantiated 
+2016-09-25 00:45:37,080 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 00:45:44,393 INFO  [Log] Web application launched successfully 
+2016-09-25 00:45:47,847 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 00:45:48,038 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 00:45:48,100 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 00:45:49,755 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 00:45:49,762 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 00:45:50,080 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 00:45:50,086 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 00:45:50,262 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 00:45:50,371 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 00:45:50,594 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 00:45:50,594 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 00:46:16,491 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 00:46:16,491 ERROR [Log] Error 
+2016-09-25 00:47:56,893 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:47:56,893 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:47:56,893 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 00:47:56,893 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:47:56,893 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:47:57,244 INFO  [Log] Excel sheet opened 
+2016-09-25 00:47:57,244 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 00:47:59,188 INFO  [Log] New driver instantiated 
+2016-09-25 00:47:59,201 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 00:48:06,040 INFO  [Log] Web application launched successfully 
+2016-09-25 00:48:06,922 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 00:48:06,993 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 00:48:07,057 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 00:48:09,211 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 00:48:09,220 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 00:48:09,579 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 00:48:09,689 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 00:48:09,875 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 00:48:09,884 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 00:48:10,089 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 00:48:10,089 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 00:48:36,088 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 00:48:36,089 ERROR [Log] Error 
+2016-09-25 00:51:51,285 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:51:51,286 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:51:51,286 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 00:51:51,286 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:51:51,286 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:51:51,628 INFO  [Log] Excel sheet opened 
+2016-09-25 00:51:51,628 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 00:51:53,835 INFO  [Log] New driver instantiated 
+2016-09-25 00:51:53,850 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 00:52:01,197 INFO  [Log] Web application launched successfully 
+2016-09-25 00:52:02,284 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 00:52:02,359 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 00:52:02,422 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 00:52:02,564 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 00:52:05,039 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 00:52:05,388 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 00:52:05,701 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 00:52:05,883 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 00:52:05,991 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 00:52:06,186 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 00:52:06,186 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 00:52:31,477 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 00:52:31,477 ERROR [Log] Error 
+2016-09-25 00:54:26,958 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:54:26,959 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:54:26,959 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 00:54:26,959 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:54:26,959 INFO  [Log] **************************************************************************************** 
+2016-09-25 00:54:27,339 INFO  [Log] Excel sheet opened 
+2016-09-25 00:54:27,339 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 00:54:29,380 INFO  [Log] New driver instantiated 
+2016-09-25 00:54:29,394 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 00:54:35,819 INFO  [Log] Web application launched successfully 
+2016-09-25 00:54:36,482 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 00:54:36,552 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 00:54:36,614 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 00:54:39,309 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 00:54:39,319 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 00:54:39,665 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 00:54:39,774 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 00:54:39,955 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 00:54:39,964 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 00:54:40,213 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 00:54:40,213 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 00:54:58,829 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 00:54:58,829 ERROR [Log] Error 
+2016-09-25 01:03:09,191 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:03:09,191 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:03:09,192 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 01:03:09,192 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:03:09,192 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:03:09,543 INFO  [Log] Excel sheet opened 
+2016-09-25 01:03:09,543 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 01:03:11,676 INFO  [Log] New driver instantiated 
+2016-09-25 01:03:11,687 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 01:03:19,769 INFO  [Log] Web application launched successfully 
+2016-09-25 01:03:20,653 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 01:03:20,928 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 01:03:22,337 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 01:03:24,176 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 01:03:24,186 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 01:03:24,506 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 01:03:24,616 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 01:03:24,790 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 01:03:24,797 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 01:03:24,990 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 01:03:24,990 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 01:03:51,475 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 01:03:51,475 ERROR [Log] Error 
+2016-09-25 01:07:38,528 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:07:38,529 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:07:38,529 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 01:07:38,529 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:07:38,529 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:07:38,883 INFO  [Log] Excel sheet opened 
+2016-09-25 01:07:38,883 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 01:07:40,933 INFO  [Log] New driver instantiated 
+2016-09-25 01:07:40,949 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 01:07:46,932 INFO  [Log] Web application launched successfully 
+2016-09-25 01:07:49,182 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 01:07:49,251 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 01:07:49,311 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 01:07:51,020 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 01:07:51,027 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 01:07:51,346 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 01:07:51,353 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 01:07:51,537 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 01:07:51,648 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 01:07:51,856 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 01:07:51,857 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 01:08:17,364 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 01:08:17,364 ERROR [Log] Error 
+2016-09-25 01:12:04,728 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:12:04,728 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:12:04,728 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 01:12:04,728 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:12:04,729 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:12:05,069 INFO  [Log] Excel sheet opened 
+2016-09-25 01:12:05,069 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 01:12:07,243 INFO  [Log] New driver instantiated 
+2016-09-25 01:12:07,261 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 01:12:14,234 INFO  [Log] Web application launched successfully 
+2016-09-25 01:12:15,012 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 01:12:15,093 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 01:12:15,156 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 01:12:18,487 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 01:12:18,494 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 01:12:18,818 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 01:12:18,823 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 01:12:19,000 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 01:12:19,007 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 01:12:19,211 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 01:12:19,211 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 01:12:45,963 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 01:12:45,963 ERROR [Log] Error 
+2016-09-25 01:13:11,639 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:13:11,640 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:13:11,640 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 01:13:11,640 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:13:11,640 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:13:12,013 INFO  [Log] Excel sheet opened 
+2016-09-25 01:13:12,013 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 01:13:14,017 INFO  [Log] New driver instantiated 
+2016-09-25 01:13:14,032 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 01:13:20,951 INFO  [Log] Web application launched successfully 
+2016-09-25 01:13:22,832 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 01:13:22,938 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 01:13:23,011 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 01:13:26,344 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 01:13:26,352 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 01:13:26,703 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 01:13:26,712 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 01:13:26,938 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 01:13:26,948 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 01:13:27,218 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 01:13:27,218 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 01:14:02,596 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 01:14:02,596 ERROR [Log] Error 
+2016-09-25 01:20:23,049 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:20:23,050 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:20:23,050 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 01:20:23,050 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:20:23,050 INFO  [Log] **************************************************************************************** 
+2016-09-25 01:20:23,419 INFO  [Log] Excel sheet opened 
+2016-09-25 01:20:23,419 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 01:20:25,769 INFO  [Log] New driver instantiated 
+2016-09-25 01:20:25,785 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 01:20:33,667 INFO  [Log] Web application launched successfully 
+2016-09-25 01:20:36,261 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 01:20:36,341 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 01:20:36,404 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 01:20:38,305 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 01:20:38,316 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 01:20:38,656 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 01:20:38,768 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 01:20:38,953 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 01:20:38,958 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 01:20:39,188 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 01:20:39,188 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 01:20:47,923 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 01:20:47,923 ERROR [Log] Error 
+2016-09-25 13:22:47,416 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:22:47,418 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:22:47,418 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 13:22:47,418 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:22:47,418 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:22:47,947 INFO  [Log] Excel sheet opened 
+2016-09-25 13:22:47,947 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 13:22:49,955 INFO  [Log] New driver instantiated 
+2016-09-25 13:22:49,968 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 13:22:55,044 INFO  [Log] Web application launched successfully 
+2016-09-25 13:22:55,626 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 13:22:55,705 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 13:22:55,764 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 13:22:57,391 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 13:22:57,399 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 13:22:57,899 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 13:22:58,007 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 13:22:58,185 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 13:22:58,191 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 13:22:58,356 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 13:22:58,356 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 13:23:02,399 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 13:23:02,399 ERROR [Log] Error 
+2016-09-25 13:25:37,728 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:25:37,728 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:25:37,728 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 13:25:37,728 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:25:37,728 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:25:38,101 INFO  [Log] Excel sheet opened 
+2016-09-25 13:25:38,101 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 13:25:40,138 INFO  [Log] New driver instantiated 
+2016-09-25 13:25:40,152 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 13:25:44,780 INFO  [Log] Web application launched successfully 
+2016-09-25 13:25:45,554 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 13:25:45,634 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 13:25:45,797 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 13:25:47,264 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 13:25:47,274 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 13:25:47,627 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 13:25:47,632 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 13:25:47,829 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 13:25:47,936 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 13:25:48,114 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 13:25:48,114 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 13:26:06,605 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 13:26:36,626 ERROR [Log] Error 
+2016-09-25 13:30:15,842 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:30:15,843 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:30:15,843 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 13:30:15,843 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:30:15,843 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:30:16,218 INFO  [Log] Excel sheet opened 
+2016-09-25 13:30:16,218 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 13:30:18,364 INFO  [Log] New driver instantiated 
+2016-09-25 13:30:18,381 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 13:30:39,630 INFO  [Log] Web application launched successfully 
+2016-09-25 13:30:42,272 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 13:30:42,363 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 13:30:42,729 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 13:30:42,807 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 13:30:49,783 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 13:30:49,965 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 13:30:53,797 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 13:30:53,947 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 13:30:53,953 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 13:30:54,051 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 13:30:54,051 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 13:31:34,415 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:31:34,416 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:31:34,416 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 13:31:34,416 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:31:34,416 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:31:34,799 INFO  [Log] Excel sheet opened 
+2016-09-25 13:31:34,799 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 13:31:36,684 INFO  [Log] New driver instantiated 
+2016-09-25 13:31:36,700 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 13:31:59,094 INFO  [Log] Web application launched successfully 
+2016-09-25 13:32:02,739 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 13:32:02,830 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 13:32:02,891 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 13:32:02,963 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 13:32:07,821 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 13:32:08,152 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 13:32:08,157 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 13:32:08,345 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 13:32:08,351 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 13:32:08,606 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 13:32:08,606 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 13:32:17,404 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 13:32:17,477 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 13:32:37,539 ERROR [Log] Search icon is not clicked 
+2016-09-25 13:32:37,539 ERROR [Log] Error 
+2016-09-25 13:37:27,394 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:37:27,394 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:37:27,394 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 13:37:27,394 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:37:27,395 INFO  [Log] **************************************************************************************** 
+2016-09-25 13:37:27,768 INFO  [Log] Excel sheet opened 
+2016-09-25 13:37:27,768 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 13:37:30,027 INFO  [Log] New driver instantiated 
+2016-09-25 13:37:30,040 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 13:37:36,349 INFO  [Log] Web application launched successfully 
+2016-09-25 13:37:37,650 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 13:37:37,735 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 13:37:37,794 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 13:37:39,454 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 13:37:39,465 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 13:37:39,812 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 13:37:39,919 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 13:37:40,088 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 13:37:40,096 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 13:37:40,296 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 13:37:40,296 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 13:37:44,268 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 13:37:44,335 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 13:37:44,361 INFO  [Log] Search icon is clicked 
+2016-09-25 13:37:49,885 INFO  [Log] Search Icon is Clicked 
+2016-09-25 13:37:49,885 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 13:37:49,885 INFO  [Log] Searching Successful 
+2016-09-25 15:30:42,026 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:30:42,027 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:30:42,027 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:30:42,027 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:30:42,027 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:30:42,397 INFO  [Log] Excel sheet opened 
+2016-09-25 15:30:42,397 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:30:44,822 INFO  [Log] New driver instantiated 
+2016-09-25 15:30:44,836 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:30:49,957 INFO  [Log] Web application launched successfully 
+2016-09-25 15:30:50,725 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:30:50,804 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:30:50,967 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:30:52,566 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:30:52,578 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:30:52,983 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:30:53,092 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:30:53,297 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:30:53,304 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:30:53,475 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:30:53,475 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:30:58,518 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 15:30:58,587 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 15:30:58,627 INFO  [Log] Search icon is clicked 
+2016-09-25 15:31:03,967 INFO  [Log] Search Icon is Clicked 
+2016-09-25 15:31:03,967 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 15:31:03,967 INFO  [Log] Searching Successful 
+2016-09-25 15:31:24,065 ERROR [Log] Product 1 Sales Price is not found 
+2016-09-25 15:31:24,066 ERROR [Log] Error 
+2016-09-25 15:32:42,099 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:32:42,100 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:32:42,100 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:32:42,100 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:32:42,100 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:32:42,476 INFO  [Log] Excel sheet opened 
+2016-09-25 15:32:42,477 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:32:45,049 INFO  [Log] New driver instantiated 
+2016-09-25 15:32:45,063 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:32:50,088 INFO  [Log] Web application launched successfully 
+2016-09-25 15:32:51,164 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:32:51,246 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:32:51,309 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:32:52,715 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:32:52,723 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:32:53,172 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:32:53,379 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:32:53,593 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:32:53,599 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:32:53,899 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:32:53,900 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:33:02,067 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 15:33:02,151 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 15:33:02,391 INFO  [Log] Search icon is clicked 
+2016-09-25 15:33:19,535 INFO  [Log] Search Icon is Clicked 
+2016-09-25 15:33:19,535 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 15:33:19,535 INFO  [Log] Searching Successful 
+2016-09-25 15:33:39,597 ERROR [Log] Product 1 Sales Price is not found 
+2016-09-25 15:33:39,597 ERROR [Log] Error 
+2016-09-25 15:34:20,415 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:34:20,416 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:34:20,416 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:34:20,416 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:34:20,416 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:34:20,785 INFO  [Log] Excel sheet opened 
+2016-09-25 15:34:20,785 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:34:22,808 INFO  [Log] New driver instantiated 
+2016-09-25 15:34:22,827 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:34:27,905 INFO  [Log] Web application launched successfully 
+2016-09-25 15:34:28,477 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:34:28,554 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:34:28,619 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:34:35,339 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:34:35,347 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:34:35,693 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:34:36,724 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:34:36,904 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:34:36,911 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:34:37,131 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:34:37,131 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:34:43,757 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 15:34:43,831 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 15:34:43,854 INFO  [Log] Search icon is clicked 
+2016-09-25 15:34:49,380 INFO  [Log] Search Icon is Clicked 
+2016-09-25 15:34:49,380 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 15:34:49,380 INFO  [Log] Searching Successful 
+2016-09-25 15:34:52,938 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 15:34:52,938 ERROR [Log] Error 
+2016-09-25 15:39:49,816 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:39:49,816 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:39:49,816 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:39:49,816 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:39:49,816 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:39:50,196 INFO  [Log] Excel sheet opened 
+2016-09-25 15:39:50,196 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:39:52,666 INFO  [Log] New driver instantiated 
+2016-09-25 15:39:52,699 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:39:59,014 INFO  [Log] Web application launched successfully 
+2016-09-25 15:40:00,513 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:40:00,729 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:40:00,789 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:40:03,562 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:40:03,570 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:40:03,948 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:40:03,956 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:40:04,162 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:40:04,170 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:40:04,449 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:40:04,449 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:40:40,657 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 15:40:40,726 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 15:40:40,756 INFO  [Log] Search icon is clicked 
+2016-09-25 15:40:45,272 INFO  [Log] Search Icon is Clicked 
+2016-09-25 15:40:45,272 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 15:40:45,272 INFO  [Log] Searching Successful 
+2016-09-25 15:40:48,383 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 15:40:48,383 ERROR [Log] Error 
+2016-09-25 15:43:55,249 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:43:55,249 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:43:55,249 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:43:55,249 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:43:55,249 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:43:55,702 INFO  [Log] Excel sheet opened 
+2016-09-25 15:43:55,702 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:43:58,696 INFO  [Log] New driver instantiated 
+2016-09-25 15:43:58,711 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:44:05,401 INFO  [Log] Web application launched successfully 
+2016-09-25 15:44:06,801 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:44:06,969 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:44:07,263 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:44:09,573 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:44:09,586 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:44:09,977 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:44:09,986 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:44:10,177 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:44:10,184 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:44:10,424 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:44:10,424 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:44:16,278 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 15:44:16,356 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 15:44:16,387 INFO  [Log] Search icon is clicked 
+2016-09-25 15:44:21,888 INFO  [Log] Search Icon is Clicked 
+2016-09-25 15:44:21,888 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 15:44:21,888 INFO  [Log] Searching Successful 
+2016-09-25 15:44:25,081 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 15:44:25,082 ERROR [Log] Error 
+2016-09-25 15:47:01,508 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:47:01,508 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:47:01,508 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:47:01,508 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:47:01,508 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:47:01,928 INFO  [Log] Excel sheet opened 
+2016-09-25 15:47:01,928 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:47:05,269 INFO  [Log] New driver instantiated 
+2016-09-25 15:47:05,285 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:47:11,574 INFO  [Log] Web application launched successfully 
+2016-09-25 15:47:12,578 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:47:12,686 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:47:12,744 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:47:12,828 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:47:13,856 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:47:35,124 ERROR [Log] Error 
+2016-09-25 15:47:59,433 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:47:59,433 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:47:59,433 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:47:59,434 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:47:59,434 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:47:59,837 INFO  [Log] Excel sheet opened 
+2016-09-25 15:47:59,837 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:48:02,416 INFO  [Log] New driver instantiated 
+2016-09-25 15:48:02,432 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:48:07,720 INFO  [Log] Web application launched successfully 
+2016-09-25 15:48:08,393 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:48:08,479 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:48:08,543 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:48:10,114 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:48:10,125 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:48:10,693 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:48:10,821 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:48:11,173 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:48:11,179 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:48:11,574 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:48:11,574 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:48:15,981 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 15:48:16,063 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 15:48:16,091 INFO  [Log] Search icon is clicked 
+2016-09-25 15:48:20,878 INFO  [Log] Search Icon is Clicked 
+2016-09-25 15:48:20,878 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 15:48:20,878 INFO  [Log] Searching Successful 
+2016-09-25 15:48:23,238 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 15:48:23,238 ERROR [Log] Error 
+2016-09-25 15:50:25,826 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:50:25,826 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:50:25,826 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:50:25,826 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:50:25,826 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:50:26,197 INFO  [Log] Excel sheet opened 
+2016-09-25 15:50:26,197 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:50:28,499 INFO  [Log] New driver instantiated 
+2016-09-25 15:50:28,528 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:50:33,549 INFO  [Log] Web application launched successfully 
+2016-09-25 15:50:34,548 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:50:34,626 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:50:34,685 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:50:34,764 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:50:35,770 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:50:35,945 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:50:36,766 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:50:36,930 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:50:36,936 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:50:37,067 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:50:37,068 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:50:47,294 ERROR [Log] Search box is not found inside the Main Page 
+2016-09-25 15:50:47,294 ERROR [Log] Error 
+2016-09-25 15:51:05,326 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:51:05,326 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:51:05,326 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:51:05,326 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:51:05,327 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:51:05,716 INFO  [Log] Excel sheet opened 
+2016-09-25 15:51:05,716 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:51:07,962 INFO  [Log] New driver instantiated 
+2016-09-25 15:51:07,977 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:51:16,823 INFO  [Log] Web application launched successfully 
+2016-09-25 15:51:18,356 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:51:18,446 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:51:18,715 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:51:21,651 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:51:21,661 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:51:22,004 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:51:22,010 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:51:22,196 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:51:22,202 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:51:22,434 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:51:22,434 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:51:28,321 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 15:51:28,420 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 15:51:29,467 INFO  [Log] Search icon is clicked 
+2016-09-25 15:51:39,357 INFO  [Log] Search Icon is Clicked 
+2016-09-25 15:51:39,358 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 15:51:39,358 INFO  [Log] Searching Successful 
+2016-09-25 15:51:41,696 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 15:51:41,696 ERROR [Log] Error 
+2016-09-25 15:57:02,273 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:57:02,273 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:57:02,273 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:57:02,273 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:57:02,273 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:57:02,686 INFO  [Log] Excel sheet opened 
+2016-09-25 15:57:02,686 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:57:04,733 INFO  [Log] New driver instantiated 
+2016-09-25 15:57:04,747 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:57:11,639 INFO  [Log] Web application launched successfully 
+2016-09-25 15:57:12,516 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:57:12,612 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:57:12,776 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:57:14,577 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:57:14,592 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:57:14,990 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:57:15,203 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:57:15,397 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:57:15,406 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:57:15,649 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:57:15,649 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:57:23,373 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 15:57:23,511 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 15:57:23,548 INFO  [Log] Search icon is clicked 
+2016-09-25 15:57:34,549 INFO  [Log] Search Icon is Clicked 
+2016-09-25 15:57:34,549 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 15:57:34,549 INFO  [Log] Searching Successful 
+2016-09-25 15:58:00,560 ERROR [Log] Product 1 Sales Price is not found 
+2016-09-25 15:58:00,560 ERROR [Log] Error 
+2016-09-25 15:58:57,918 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:58:57,919 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:58:57,919 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 15:58:57,919 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:58:57,919 INFO  [Log] **************************************************************************************** 
+2016-09-25 15:58:58,303 INFO  [Log] Excel sheet opened 
+2016-09-25 15:58:58,303 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 15:59:00,768 INFO  [Log] New driver instantiated 
+2016-09-25 15:59:00,783 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 15:59:07,563 INFO  [Log] Web application launched successfully 
+2016-09-25 15:59:09,205 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 15:59:09,354 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 15:59:09,498 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 15:59:09,587 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 15:59:11,293 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 15:59:11,672 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 15:59:11,780 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 15:59:11,998 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 15:59:12,004 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 15:59:12,344 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 15:59:12,344 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 15:59:17,313 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 15:59:17,378 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 15:59:17,405 INFO  [Log] Search icon is clicked 
+2016-09-25 15:59:26,682 INFO  [Log] Search Icon is Clicked 
+2016-09-25 15:59:26,682 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 15:59:26,682 INFO  [Log] Searching Successful 
+2016-09-25 15:59:28,644 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 16:43:23,443 INFO  [Log] **************************************************************************************** 
+2016-09-25 16:43:23,444 INFO  [Log] **************************************************************************************** 
+2016-09-25 16:43:23,444 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 16:43:23,444 INFO  [Log] **************************************************************************************** 
+2016-09-25 16:43:23,444 INFO  [Log] **************************************************************************************** 
+2016-09-25 16:43:23,816 INFO  [Log] Excel sheet opened 
+2016-09-25 16:43:23,816 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 16:43:26,126 INFO  [Log] New driver instantiated 
+2016-09-25 16:43:26,138 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 16:43:36,246 INFO  [Log] Web application launched successfully 
+2016-09-25 16:43:37,126 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 16:43:37,211 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 16:43:37,276 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 16:43:38,811 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 16:43:38,823 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 16:43:39,166 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 16:43:39,277 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 16:43:39,463 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 16:43:39,469 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 16:43:39,694 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 16:43:39,695 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 16:43:43,837 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 16:43:43,931 INFO  [Log] Life Savers 5 Flavors Gummies is entered in Search box 
+2016-09-25 16:43:44,162 INFO  [Log] Search icon is clicked 
+2016-09-25 16:43:53,142 INFO  [Log] Search Icon is Clicked 
+2016-09-25 16:43:53,142 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 16:43:53,142 INFO  [Log] Searching Successful 
+2016-09-25 16:43:54,829 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 16:45:57,810 INFO  [Log] **************************************************************************************** 
+2016-09-25 16:45:57,811 INFO  [Log] **************************************************************************************** 
+2016-09-25 16:45:57,811 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 16:45:57,811 INFO  [Log] **************************************************************************************** 
+2016-09-25 16:45:57,811 INFO  [Log] **************************************************************************************** 
+2016-09-25 16:45:58,170 INFO  [Log] Excel sheet opened 
+2016-09-25 16:45:58,170 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 16:46:00,319 INFO  [Log] New driver instantiated 
+2016-09-25 16:46:00,339 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 16:46:08,926 INFO  [Log] Web application launched successfully 
+2016-09-25 16:46:09,936 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 16:46:10,016 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 16:46:10,079 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 16:46:11,627 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 16:46:11,641 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 16:46:12,004 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 16:46:12,220 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 16:46:12,406 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 16:46:12,412 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 16:46:12,665 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 16:46:12,665 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 16:46:17,239 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 16:46:17,326 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 16:46:17,568 INFO  [Log] Search icon is clicked 
+2016-09-25 16:46:21,947 INFO  [Log] Search Icon is Clicked 
+2016-09-25 16:46:21,947 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 16:46:21,947 INFO  [Log] Searching Successful 
+2016-09-25 16:46:24,680 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 17:14:56,651 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:14:56,651 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:14:56,651 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 17:14:56,651 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:14:56,651 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:14:57,022 INFO  [Log] Excel sheet opened 
+2016-09-25 17:14:57,022 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 17:14:59,382 INFO  [Log] New driver instantiated 
+2016-09-25 17:14:59,397 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 17:15:10,776 INFO  [Log] Web application launched successfully 
+2016-09-25 17:15:11,589 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 17:15:11,793 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 17:15:11,961 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 17:15:13,469 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 17:15:13,477 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 17:15:13,818 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 17:15:13,823 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 17:15:14,019 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 17:15:14,128 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 17:15:14,361 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 17:15:14,361 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 17:15:18,908 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 17:15:18,976 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 17:15:19,006 INFO  [Log] Search icon is clicked 
+2016-09-25 17:15:24,409 INFO  [Log] Search Icon is Clicked 
+2016-09-25 17:15:24,409 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 17:15:24,409 INFO  [Log] Searching Successful 
+2016-09-25 17:15:26,723 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 17:15:39,861 INFO  [Log] Product Name is Found 
+2016-09-25 17:15:39,901 INFO  [Log] Product Name is Same 
+2016-09-25 17:15:39,952 INFO  [Log] Product Price is Available 
+2016-09-25 17:15:39,970 INFO  [Log] Product Price is Same 
+2016-09-25 17:15:40,016 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 17:15:40,102 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 17:26:19,833 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:26:19,834 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:26:19,834 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 17:26:19,834 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:26:19,834 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:26:20,205 INFO  [Log] Excel sheet opened 
+2016-09-25 17:26:20,205 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 17:26:22,441 INFO  [Log] New driver instantiated 
+2016-09-25 17:26:22,453 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 17:26:28,110 INFO  [Log] Web application launched successfully 
+2016-09-25 17:26:28,888 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 17:26:28,967 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 17:26:29,030 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 17:26:30,810 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 17:26:30,818 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 17:26:31,195 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 17:26:31,307 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 17:26:31,640 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 17:26:31,646 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 17:26:32,027 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 17:26:32,027 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 17:26:36,210 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 17:26:36,310 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 17:26:36,342 INFO  [Log] Search icon is clicked 
+2016-09-25 17:26:40,229 INFO  [Log] Search Icon is Clicked 
+2016-09-25 17:26:40,229 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 17:26:40,229 INFO  [Log] Searching Successful 
+2016-09-25 17:26:42,554 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 17:26:46,610 INFO  [Log] Product Name is Found 
+2016-09-25 17:26:46,640 INFO  [Log] Product Name is Same 
+2016-09-25 17:26:46,689 INFO  [Log] Product Price is Available 
+2016-09-25 17:26:46,744 INFO  [Log] Product Price is Same 
+2016-09-25 17:26:46,786 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 17:26:53,398 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 17:31:53,877 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:31:53,878 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:31:53,878 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 17:31:53,878 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:31:53,878 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:31:54,290 INFO  [Log] Excel sheet opened 
+2016-09-25 17:31:54,290 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 17:31:56,665 INFO  [Log] New driver instantiated 
+2016-09-25 17:31:56,677 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 17:32:01,423 INFO  [Log] Web application launched successfully 
+2016-09-25 17:32:01,992 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 17:32:02,068 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 17:32:02,231 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 17:32:03,647 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 17:32:03,656 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 17:32:04,160 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 17:32:04,269 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 17:32:04,515 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 17:32:04,521 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 17:32:04,733 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 17:32:04,733 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 17:32:08,828 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 17:32:08,908 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 17:32:08,945 INFO  [Log] Search icon is clicked 
+2016-09-25 17:32:13,914 INFO  [Log] Search Icon is Clicked 
+2016-09-25 17:32:13,914 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 17:32:13,914 INFO  [Log] Searching Successful 
+2016-09-25 17:32:16,273 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 17:32:21,951 INFO  [Log] Product Name is Found 
+2016-09-25 17:32:21,977 INFO  [Log] Product Name is Same 
+2016-09-25 17:32:22,025 INFO  [Log] Product Price is Available 
+2016-09-25 17:32:22,129 INFO  [Log] Product Price is Same 
+2016-09-25 17:32:22,181 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 17:32:22,258 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 17:32:23,082 INFO  [Log] Checkout Button is Found 
+2016-09-25 17:32:26,465 INFO  [Log] Checkout Button is Clicked 
+2016-09-25 17:49:44,779 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:49:44,780 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:49:44,780 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 17:49:44,780 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:49:44,780 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:49:45,150 INFO  [Log] Excel sheet opened 
+2016-09-25 17:49:45,150 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 17:49:47,510 INFO  [Log] New driver instantiated 
+2016-09-25 17:49:47,524 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 17:49:52,677 INFO  [Log] Web application launched successfully 
+2016-09-25 17:49:53,857 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 17:49:53,941 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 17:49:54,002 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 17:49:55,599 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 17:49:55,608 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 17:49:55,946 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 17:49:55,952 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 17:49:56,251 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 17:49:56,394 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 17:49:56,629 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 17:49:56,630 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 17:50:02,163 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 17:50:02,248 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 17:50:02,588 INFO  [Log] Search icon is clicked 
+2016-09-25 17:50:02,658 INFO  [Log] Search Icon is Clicked 
+2016-09-25 17:50:02,658 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 17:50:02,658 INFO  [Log] Searching Successful 
+2016-09-25 17:50:10,965 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 17:50:15,756 INFO  [Log] Product Name is Found 
+2016-09-25 17:50:15,766 INFO  [Log] Product Name is Same 
+2016-09-25 17:50:15,825 INFO  [Log] Product Price is Available 
+2016-09-25 17:50:15,848 INFO  [Log] Product Price is Same 
+2016-09-25 17:50:15,890 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 17:50:15,991 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 17:50:16,796 INFO  [Log] Checkout Button is Found 
+2016-09-25 17:50:20,244 INFO  [Log] Checkout Button is Clicked 
+2016-09-25 17:50:20,456 INFO  [Log] Continue Button is Found 
+2016-09-25 17:50:22,236 INFO  [Log] First Name Text Box is Found 
+2016-09-25 17:50:22,506 INFO  [Log] Lakshay is entered as First Name on the Payment detail page 
+2016-09-25 17:50:22,514 INFO  [Log] First Name Text Box is Found 
+2016-09-25 17:50:22,685 INFO  [Log] Sharma is entered as Last Name on the Payment detail page 
+2016-09-25 17:50:22,693 INFO  [Log] First Name Text Box is Found 
+2016-09-25 17:50:23,381 INFO  [Log] 35, Marconi House, Walker Road is entered as Phone Number on the Payment detail page 
+2016-09-25 17:51:01,525 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:51:01,526 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:51:01,526 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 17:51:01,526 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:51:01,526 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:51:01,898 INFO  [Log] Excel sheet opened 
+2016-09-25 17:51:01,898 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 17:51:04,159 INFO  [Log] New driver instantiated 
+2016-09-25 17:51:04,168 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 17:51:09,830 INFO  [Log] Web application launched successfully 
+2016-09-25 17:51:10,404 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 17:51:10,488 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 17:51:10,548 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 17:51:12,101 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 17:51:12,111 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 17:51:12,638 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 17:51:12,767 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 17:51:13,087 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 17:51:13,094 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 17:51:13,497 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 17:51:13,497 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 17:51:17,690 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 17:51:17,761 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 17:51:17,789 INFO  [Log] Search icon is clicked 
+2016-09-25 17:51:22,168 INFO  [Log] Search Icon is Clicked 
+2016-09-25 17:51:22,168 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 17:51:22,168 INFO  [Log] Searching Successful 
+2016-09-25 17:51:24,518 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 17:51:30,840 INFO  [Log] Product Name is Found 
+2016-09-25 17:51:30,851 INFO  [Log] Product Name is Same 
+2016-09-25 17:51:31,028 INFO  [Log] Product Price is Available 
+2016-09-25 17:51:31,164 INFO  [Log] Product Price is Same 
+2016-09-25 17:51:31,218 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 17:51:31,313 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 17:51:33,214 INFO  [Log] Checkout Button is Found 
+2016-09-25 17:51:36,733 INFO  [Log] Checkout Button is Clicked 
+2016-09-25 17:51:37,580 INFO  [Log] Continue Button is Found 
+2016-09-25 17:51:38,896 INFO  [Log] First Name Text Box is Found 
+2016-09-25 17:51:39,447 INFO  [Log] Somasundaraprabhu is entered as First Name on the Payment detail page 
+2016-09-25 17:51:39,677 INFO  [Log] First Name Text Box is Found 
+2016-09-25 17:51:39,995 INFO  [Log] Suryanarayanan is entered as Last Name on the Payment detail page 
+2016-09-25 17:51:40,003 INFO  [Log] First Name Text Box is Found 
+2016-09-25 17:51:40,023 INFO  [Log]  is entered as Phone Number on the Payment detail page 
+2016-09-25 17:54:07,777 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:54:07,778 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:54:07,778 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 17:54:07,778 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:54:07,778 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:54:08,145 INFO  [Log] Excel sheet opened 
+2016-09-25 17:54:08,145 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 17:54:10,352 INFO  [Log] New driver instantiated 
+2016-09-25 17:54:10,371 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 17:54:16,100 INFO  [Log] Web application launched successfully 
+2016-09-25 17:54:16,889 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 17:54:17,051 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 17:54:17,361 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 17:54:18,959 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 17:54:18,981 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 17:54:19,409 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 17:54:19,534 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 17:54:19,758 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 17:54:19,778 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 17:54:20,145 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 17:54:20,145 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 17:54:24,736 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 17:54:24,856 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 17:54:24,887 INFO  [Log] Search icon is clicked 
+2016-09-25 17:54:33,985 INFO  [Log] Search Icon is Clicked 
+2016-09-25 17:54:33,985 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 17:54:33,985 INFO  [Log] Searching Successful 
+2016-09-25 17:54:36,770 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 17:55:52,513 ERROR [Log] Product Name is not Found 
+2016-09-25 17:55:52,513 ERROR [Log] Error 
+2016-09-25 17:57:11,367 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:57:11,367 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:57:11,367 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 17:57:11,367 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:57:11,367 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:57:11,755 INFO  [Log] Excel sheet opened 
+2016-09-25 17:57:11,755 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 17:57:13,883 INFO  [Log] New driver instantiated 
+2016-09-25 17:57:13,899 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 17:57:22,491 INFO  [Log] Web application launched successfully 
+2016-09-25 17:57:23,612 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 17:57:23,703 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 17:57:23,763 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 17:57:23,844 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 17:57:24,967 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 17:57:25,461 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 17:57:25,976 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 17:57:26,169 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 17:57:26,175 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 17:57:26,395 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 17:57:26,395 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 17:57:31,244 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 17:57:31,310 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 17:57:31,337 INFO  [Log] Search icon is clicked 
+2016-09-25 17:57:37,093 INFO  [Log] Search Icon is Clicked 
+2016-09-25 17:57:37,093 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 17:57:37,093 INFO  [Log] Searching Successful 
+2016-09-25 17:57:39,728 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 17:57:45,510 INFO  [Log] Product Name is Found 
+2016-09-25 17:57:45,525 INFO  [Log] Product Name is Same 
+2016-09-25 17:57:45,572 INFO  [Log] Product Price is Available 
+2016-09-25 17:57:45,622 INFO  [Log] Product Price is Same 
+2016-09-25 17:57:45,677 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 17:57:45,784 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 17:57:46,934 INFO  [Log] Checkout Button is Found 
+2016-09-25 17:57:49,574 INFO  [Log] Checkout Button is Clicked 
+2016-09-25 17:57:49,793 INFO  [Log] Continue Button is Found 
+2016-09-25 17:57:51,171 INFO  [Log] First Name Text Box is Found 
+2016-09-25 17:57:51,781 INFO  [Log] Somasundaraprabhu is entered as First Name on the Payment detail page 
+2016-09-25 17:57:52,264 INFO  [Log] First Name Text Box is Found 
+2016-09-25 17:57:52,604 INFO  [Log] Suryanarayanan is entered as Last Name on the Payment detail page 
+2016-09-25 17:57:52,666 INFO  [Log] First Name Text Box is Found 
+2016-09-25 17:57:52,689 INFO  [Log]  is entered as Phone Number on the Payment detail page 
+2016-09-25 17:59:34,081 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:59:34,082 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:59:34,082 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 17:59:34,082 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:59:34,082 INFO  [Log] **************************************************************************************** 
+2016-09-25 17:59:34,461 INFO  [Log] Excel sheet opened 
+2016-09-25 17:59:34,461 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 17:59:36,635 INFO  [Log] New driver instantiated 
+2016-09-25 17:59:36,645 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 17:59:42,513 INFO  [Log] Web application launched successfully 
+2016-09-25 17:59:43,189 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 17:59:43,270 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 17:59:43,331 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 17:59:44,960 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 17:59:44,971 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 17:59:45,362 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 17:59:45,472 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 17:59:45,799 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 17:59:45,806 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 17:59:46,177 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 17:59:46,177 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 17:59:50,309 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 17:59:50,403 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 17:59:50,449 INFO  [Log] Search icon is clicked 
+2016-09-25 17:59:54,461 INFO  [Log] Search Icon is Clicked 
+2016-09-25 17:59:54,461 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 17:59:54,461 INFO  [Log] Searching Successful 
+2016-09-25 17:59:56,956 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 18:00:01,895 INFO  [Log] Product Name is Found 
+2016-09-25 18:00:01,906 INFO  [Log] Product Name is Same 
+2016-09-25 18:00:01,955 INFO  [Log] Product Price is Available 
+2016-09-25 18:00:01,975 INFO  [Log] Product Price is Same 
+2016-09-25 18:00:02,039 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 18:00:02,222 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 18:00:03,091 INFO  [Log] Checkout Button is Found 
+2016-09-25 18:00:06,048 INFO  [Log] Checkout Button is Clicked 
+2016-09-25 18:00:06,778 INFO  [Log] Continue Button is Found 
+2016-09-25 18:00:08,366 INFO  [Log] First Name Text Box is Found 
+2016-09-25 18:00:09,122 INFO  [Log] Somasundaraprabhu is entered as First Name on the Payment detail page 
+2016-09-25 18:00:09,430 INFO  [Log] Last Name Text Box is Found 
+2016-09-25 18:00:09,820 INFO  [Log] Suryanarayanan is entered as Last Name on the Payment detail page 
+2016-09-25 18:00:09,884 INFO  [Log] PhoneNumber Text Box is Found 
+2016-09-25 18:00:09,955 INFO  [Log]  is entered as Phone Number on the Payment detail page 
+2016-09-25 18:01:54,975 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:01:54,976 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:01:54,976 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 18:01:54,976 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:01:54,976 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:01:55,362 INFO  [Log] Excel sheet opened 
+2016-09-25 18:01:55,362 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 18:01:57,569 INFO  [Log] New driver instantiated 
+2016-09-25 18:01:57,582 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 18:02:02,715 INFO  [Log] Web application launched successfully 
+2016-09-25 18:02:03,490 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 18:02:03,569 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 18:02:03,629 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 18:02:05,207 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 18:02:05,213 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 18:02:05,668 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 18:02:05,794 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 18:02:05,988 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 18:02:05,994 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 18:02:06,217 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 18:02:06,217 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 18:02:10,588 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 18:02:10,671 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 18:02:10,916 INFO  [Log] Search icon is clicked 
+2016-09-25 18:02:15,294 INFO  [Log] Search Icon is Clicked 
+2016-09-25 18:02:15,294 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 18:02:15,294 INFO  [Log] Searching Successful 
+2016-09-25 18:02:17,965 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 18:02:55,877 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:02:55,877 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:02:55,877 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 18:02:55,877 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:02:55,877 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:02:56,257 INFO  [Log] Excel sheet opened 
+2016-09-25 18:02:56,257 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 18:02:58,324 INFO  [Log] New driver instantiated 
+2016-09-25 18:02:58,348 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 18:03:04,292 INFO  [Log] Web application launched successfully 
+2016-09-25 18:03:04,967 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 18:03:05,046 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 18:03:05,103 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 18:03:06,679 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 18:03:06,686 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 18:03:07,158 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 18:03:07,278 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 18:03:07,602 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 18:03:07,610 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 18:03:07,870 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 18:03:07,870 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 18:03:12,339 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 18:03:12,420 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 18:03:12,446 INFO  [Log] Search icon is clicked 
+2016-09-25 18:03:22,498 INFO  [Log] Search Icon is Clicked 
+2016-09-25 18:03:22,498 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 18:03:22,498 INFO  [Log] Searching Successful 
+2016-09-25 18:03:24,656 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 18:03:48,544 ERROR [Log] Product Name is not Found 
+2016-09-25 18:03:48,544 ERROR [Log] Error 
+2016-09-25 18:06:03,499 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:06:03,499 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:06:03,499 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 18:06:03,499 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:06:03,499 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:06:03,867 INFO  [Log] Excel sheet opened 
+2016-09-25 18:06:03,867 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 18:06:05,992 INFO  [Log] New driver instantiated 
+2016-09-25 18:06:06,006 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 18:06:11,933 INFO  [Log] Web application launched successfully 
+2016-09-25 18:06:12,911 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 18:06:12,989 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 18:06:13,053 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 18:06:15,593 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 18:06:15,601 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 18:06:15,979 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 18:06:16,501 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 18:06:16,687 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 18:06:16,694 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 18:06:16,907 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 18:06:16,907 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 18:06:20,461 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 18:06:20,594 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 18:06:20,762 INFO  [Log] Search icon is clicked 
+2016-09-25 18:06:26,831 INFO  [Log] Search Icon is Clicked 
+2016-09-25 18:06:26,832 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 18:06:26,832 INFO  [Log] Searching Successful 
+2016-09-25 18:06:29,419 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 18:06:32,554 INFO  [Log] Product Name is Found 
+2016-09-25 18:06:32,564 INFO  [Log] Product Name is Same 
+2016-09-25 18:06:32,618 INFO  [Log] Product Price is Available 
+2016-09-25 18:06:32,715 INFO  [Log] Product Price is Same 
+2016-09-25 18:06:32,826 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 18:06:38,138 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 18:06:38,229 INFO  [Log] Checkout Button is Found 
+2016-09-25 18:06:38,375 INFO  [Log] Checkout Button is Clicked 
+2016-09-25 18:06:41,108 INFO  [Log] Continue Button is Found 
+2016-09-25 18:06:43,339 INFO  [Log] First Name Text Box is Found 
+2016-09-25 18:06:43,817 INFO  [Log] Somasundaraprabhu is entered as First Name on the Payment detail page 
+2016-09-25 18:06:44,295 INFO  [Log] Last Name Text Box is Found 
+2016-09-25 18:06:44,722 INFO  [Log] Suryanarayanan is entered as Last Name on the Payment detail page 
+2016-09-25 18:06:44,781 INFO  [Log] PhoneNumber Text Box is Found 
+2016-09-25 18:06:45,184 INFO  [Log] (408)520-0476 is entered as Phone Number on the Payment detail page 
+2016-09-25 18:29:00,703 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:29:00,703 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:29:00,703 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 18:29:00,703 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:29:00,704 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:29:01,072 INFO  [Log] Excel sheet opened 
+2016-09-25 18:29:01,073 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 18:29:03,318 INFO  [Log] New driver instantiated 
+2016-09-25 18:29:03,339 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 18:29:08,956 INFO  [Log] Web application launched successfully 
+2016-09-25 18:29:09,722 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 18:29:09,803 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 18:29:09,861 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 18:29:11,502 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 18:29:11,509 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 18:29:11,912 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 18:29:11,925 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 18:29:12,271 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 18:29:12,278 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 18:29:12,659 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 18:29:12,659 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 18:29:16,412 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 18:29:16,508 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 18:29:16,551 INFO  [Log] Search icon is clicked 
+2016-09-25 18:29:20,585 INFO  [Log] Search Icon is Clicked 
+2016-09-25 18:29:20,585 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 18:29:20,585 INFO  [Log] Searching Successful 
+2016-09-25 18:29:22,862 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 18:29:26,160 INFO  [Log] Product Name is Found 
+2016-09-25 18:29:26,176 INFO  [Log] Product Name is Same 
+2016-09-25 18:29:26,554 INFO  [Log] Product Price is Available 
+2016-09-25 18:29:26,568 INFO  [Log] Product Price is Same 
+2016-09-25 18:29:26,582 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 18:29:29,573 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 18:29:29,616 INFO  [Log] Checkout Button is Found 
+2016-09-25 18:29:47,495 INFO  [Log] Checkout Button is Clicked 
+2016-09-25 18:29:49,666 INFO  [Log] Continue Button is Found 
+2016-09-25 18:29:52,501 INFO  [Log] First Name Text Box is Found 
+2016-09-25 18:29:52,976 INFO  [Log] Somasundaraprabhu is entered as First Name on the Payment detail page 
+2016-09-25 18:29:52,985 INFO  [Log] Last Name Text Box is Found 
+2016-09-25 18:29:53,373 INFO  [Log] Suryanarayanan is entered as Last Name on the Payment detail page 
+2016-09-25 18:29:53,380 INFO  [Log] PhoneNumber Text Box is Found 
+2016-09-25 18:29:53,724 INFO  [Log] (408)520-0476 is entered as Phone Number on the Payment detail page 
+2016-09-25 18:29:53,731 INFO  [Log] Street Address Text Box is Found 
+2016-09-25 18:29:54,083 INFO  [Log] 190 Ryland St is entered as Street Address on the Payment detail page 
+2016-09-25 18:29:54,095 INFO  [Log] Apt Text Box is Found 
+2016-09-25 18:29:54,172 INFO  [Log]  is entered as Appartment Number on the Payment detail page 
+2016-09-25 18:29:54,179 INFO  [Log] Apt Text Box is Found 
+2016-09-25 18:29:54,382 INFO  [Log] San Jose is entered as City  on the Payment detail page 
+2016-09-25 18:29:54,389 INFO  [Log] ZipCode Text Box is Found 
+2016-09-25 18:29:54,459 INFO  [Log]  is entered as ZipCode  on the Payment detail page 
+2016-09-25 18:31:41,082 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:31:41,083 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:31:41,083 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 18:31:41,083 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:31:41,083 INFO  [Log] **************************************************************************************** 
+2016-09-25 18:31:41,466 INFO  [Log] Excel sheet opened 
+2016-09-25 18:31:41,466 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 18:31:43,742 INFO  [Log] New driver instantiated 
+2016-09-25 18:31:43,758 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 18:31:49,491 INFO  [Log] Web application launched successfully 
+2016-09-25 18:31:50,158 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 18:31:50,235 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 18:31:50,297 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 18:31:51,875 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 18:31:51,927 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 18:31:52,323 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 18:31:52,431 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 18:31:52,743 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 18:31:52,749 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 18:31:52,999 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 18:31:52,999 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 18:31:57,294 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 18:31:57,364 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 18:31:57,393 INFO  [Log] Search icon is clicked 
+2016-09-25 18:32:02,011 INFO  [Log] Search Icon is Clicked 
+2016-09-25 18:32:02,011 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 18:32:02,011 INFO  [Log] Searching Successful 
+2016-09-25 18:32:04,251 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 18:32:11,623 INFO  [Log] Product Name is Found 
+2016-09-25 18:32:11,632 INFO  [Log] Product Name is Same 
+2016-09-25 18:32:11,681 INFO  [Log] Product Price is Available 
+2016-09-25 18:32:11,700 INFO  [Log] Product Price is Same 
+2016-09-25 18:32:11,713 INFO  [Log] AddtoCart Button is Available 
+2016-09-25 18:32:11,822 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-25 18:32:12,416 INFO  [Log] Checkout Button is Found 
+2016-09-25 18:32:15,931 INFO  [Log] Checkout Button is Clicked 
+2016-09-25 18:32:16,665 INFO  [Log] Continue Button is Found 
+2016-09-25 18:32:18,189 INFO  [Log] First Name Text Box is Found 
+2016-09-25 18:32:18,668 INFO  [Log] Somasundaraprabhu is entered as First Name on the Payment detail page 
+2016-09-25 18:32:19,294 INFO  [Log] Last Name Text Box is Found 
+2016-09-25 18:32:19,712 INFO  [Log] Suryanarayanan is entered as Last Name on the Payment detail page 
+2016-09-25 18:32:19,719 INFO  [Log] PhoneNumber Text Box is Found 
+2016-09-25 18:32:20,104 INFO  [Log] (408)520-0476 is entered as Phone Number on the Payment detail page 
+2016-09-25 18:32:20,115 INFO  [Log] Street Address Text Box is Found 
+2016-09-25 18:32:20,501 INFO  [Log] 190 Ryland St is entered as Street Address on the Payment detail page 
+2016-09-25 18:32:20,509 INFO  [Log] Apt Text Box is Found 
+2016-09-25 18:32:20,617 INFO  [Log]  is entered as Appartment Number on the Payment detail page 
+2016-09-25 18:32:20,624 INFO  [Log] City Text Box is Found 
+2016-09-25 18:32:20,715 INFO  [Log] Apt Text Box is Found 
+2016-09-25 18:32:21,117 INFO  [Log] San Jose is entered as City  on the Payment detail page 
+2016-09-25 18:32:21,124 INFO  [Log] ZipCode Text Box is Found 
+2016-09-25 18:32:21,233 INFO  [Log] ZipCode Text Box is Found 
+2016-09-25 18:32:21,258 INFO  [Log]  is entered as ZipCode  on the Payment detail page 
+2016-09-25 22:47:53,621 INFO  [Log] **************************************************************************************** 
+2016-09-25 22:47:53,622 INFO  [Log] **************************************************************************************** 
+2016-09-25 22:47:53,622 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 22:47:53,622 INFO  [Log] **************************************************************************************** 
+2016-09-25 22:47:53,622 INFO  [Log] **************************************************************************************** 
+2016-09-25 22:47:54,089 INFO  [Log] Excel sheet opened 
+2016-09-25 22:47:54,089 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 22:47:57,084 INFO  [Log] New driver instantiated 
+2016-09-25 22:47:57,106 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 22:48:03,026 INFO  [Log] Web application launched successfully 
+2016-09-25 22:48:03,713 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 22:48:03,813 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 22:48:03,877 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 22:48:03,954 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 22:48:05,634 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 22:48:06,099 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 22:48:06,226 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 22:48:06,449 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 22:48:06,456 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 22:48:06,680 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 22:48:06,681 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 22:48:11,176 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 22:48:11,353 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 22:48:11,385 INFO  [Log] Search icon is clicked 
+2016-09-25 22:48:16,950 INFO  [Log] Search Icon is Clicked 
+2016-09-25 22:48:16,951 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 22:48:16,951 INFO  [Log] Searching Successful 
+2016-09-25 22:48:19,946 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 22:48:19,946 ERROR [Log] Error 
+2016-09-25 22:49:27,347 INFO  [Log] **************************************************************************************** 
+2016-09-25 22:49:27,348 INFO  [Log] **************************************************************************************** 
+2016-09-25 22:49:27,348 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-25 22:49:27,348 INFO  [Log] **************************************************************************************** 
+2016-09-25 22:49:27,348 INFO  [Log] **************************************************************************************** 
+2016-09-25 22:49:27,805 INFO  [Log] Excel sheet opened 
+2016-09-25 22:49:27,805 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-25 22:49:30,339 INFO  [Log] New driver instantiated 
+2016-09-25 22:49:30,354 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-25 22:49:36,120 INFO  [Log] Web application launched successfully 
+2016-09-25 22:49:36,919 INFO  [Log] My Account link is found on the Home Page 
+2016-09-25 22:49:37,018 INFO  [Log] Click action is performed on My Account link 
+2016-09-25 22:49:37,080 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-25 22:49:38,550 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-25 22:49:38,562 INFO  [Log] Username text box is found on the Login Page 
+2016-09-25 22:49:39,111 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-25 22:49:39,231 INFO  [Log] Password text box is found on the Login page 
+2016-09-25 22:49:39,454 INFO  [Log] surya999 is entered in Password text box 
+2016-09-25 22:49:39,461 INFO  [Log] Sign In button is found on the Login page 
+2016-09-25 22:49:39,671 INFO  [Log] Click action is performed on Submit button 
+2016-09-25 22:49:39,672 INFO  [Log] SignIn Action is successfully performed 
+2016-09-25 22:49:43,711 INFO  [Log] Search box is found inside the Main Page 
+2016-09-25 22:49:43,788 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-25 22:49:43,826 INFO  [Log] Search icon is clicked 
+2016-09-25 22:49:49,097 INFO  [Log] Search Icon is Clicked 
+2016-09-25 22:49:49,097 INFO  [Log] Landed into the product Listing Page 
+2016-09-25 22:49:49,097 INFO  [Log] Searching Successful 
+2016-09-25 22:49:52,190 INFO  [Log] The complete Title_Container is Selected 
+2016-09-25 22:49:52,190 ERROR [Log] Error 
+2016-09-28 21:46:12,851 INFO  [Log] **************************************************************************************** 
+2016-09-28 21:46:12,853 INFO  [Log] **************************************************************************************** 
+2016-09-28 21:46:12,853 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-09-28 21:46:12,853 INFO  [Log] **************************************************************************************** 
+2016-09-28 21:46:12,853 INFO  [Log] **************************************************************************************** 
+2016-09-28 21:46:13,327 INFO  [Log] Excel sheet opened 
+2016-09-28 21:46:13,327 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-09-28 21:46:15,342 INFO  [Log] New driver instantiated 
+2016-09-28 21:46:15,362 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-09-28 21:46:34,650 INFO  [Log] Web application launched successfully 
+2016-09-28 21:46:36,063 INFO  [Log] My Account link is found on the Home Page 
+2016-09-28 21:46:36,164 INFO  [Log] Click action is performed on My Account link 
+2016-09-28 21:46:36,711 INFO  [Log] Sign_in link is found on the Home Page 
+2016-09-28 21:46:38,636 INFO  [Log] Click action is performed on SiginLink link 
+2016-09-28 21:46:38,646 INFO  [Log] Username text box is found on the Login Page 
+2016-09-28 21:46:38,975 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-09-28 21:46:39,084 INFO  [Log] Password text box is found on the Login page 
+2016-09-28 21:46:39,259 INFO  [Log] surya999 is entered in Password text box 
+2016-09-28 21:46:39,265 INFO  [Log] Sign In button is found on the Login page 
+2016-09-28 21:46:39,484 INFO  [Log] Click action is performed on Submit button 
+2016-09-28 21:46:39,485 INFO  [Log] SignIn Action is successfully performed 
+2016-09-28 21:47:26,861 INFO  [Log] Search box is found inside the Main Page 
+2016-09-28 21:47:26,927 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-09-28 21:47:26,968 INFO  [Log] Search icon is clicked 
+2016-09-28 21:47:33,088 INFO  [Log] Search Icon is Clicked 
+2016-09-28 21:47:33,088 INFO  [Log] Landed into the product Listing Page 
+2016-09-28 21:47:33,088 INFO  [Log] Searching Successful 
+2016-09-28 21:47:35,222 INFO  [Log] The complete Title_Container is Selected 
+2016-09-28 21:47:42,874 INFO  [Log] Product Name is Found 
+2016-09-28 21:47:42,884 INFO  [Log] Product Name is Same 
+2016-09-28 21:47:42,930 INFO  [Log] Product Price is Available 
+2016-09-28 21:47:42,954 INFO  [Log] Product Price is Same 
+2016-09-28 21:47:42,962 INFO  [Log] AddtoCart Button is Available 
+2016-09-28 21:47:43,070 INFO  [Log] Add to Cart Button is Clicked 
+2016-09-28 21:47:44,083 INFO  [Log] Checkout Button is Found 
+2016-09-28 21:47:47,758 INFO  [Log] Checkout Button is Clicked 
+2016-09-28 21:47:48,468 INFO  [Log] Continue Button is Found 
+2016-09-28 21:48:10,124 ERROR [Log] First Name Text Box is not Found 
+2016-09-28 21:48:10,124 ERROR [Log] Error 
+2016-10-02 13:18:54,376 INFO  [Log] **************************************************************************************** 
+2016-10-02 13:18:54,377 INFO  [Log] **************************************************************************************** 
+2016-10-02 13:18:54,377 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-02 13:18:54,377 INFO  [Log] **************************************************************************************** 
+2016-10-02 13:18:54,377 INFO  [Log] **************************************************************************************** 
+2016-10-02 13:18:54,869 INFO  [Log] Excel sheet opened 
+2016-10-02 13:18:54,869 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-10-02 13:18:57,634 INFO  [Log] New driver instantiated 
+2016-10-02 13:18:57,649 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-10-02 13:19:03,432 INFO  [Log] Web application launched successfully 
+2016-10-02 13:19:04,619 INFO  [Log] My Account link is found on the Home Page 
+2016-10-02 13:19:04,942 INFO  [Log] Click action is performed on My Account link 
+2016-10-02 13:19:05,024 INFO  [Log] Sign_in link is found on the Home Page 
+2016-10-02 13:19:05,134 INFO  [Log] Click action is performed on SiginLink link 
+2016-10-02 13:19:06,137 INFO  [Log] Username text box is found on the Login Page 
+2016-10-02 13:19:06,448 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-10-02 13:19:07,558 INFO  [Log] Password text box is found on the Login page 
+2016-10-02 13:19:07,709 INFO  [Log] surya999 is entered in Password text box 
+2016-10-02 13:19:07,819 INFO  [Log] Sign In button is found on the Login page 
+2016-10-02 13:19:07,911 INFO  [Log] Click action is performed on Submit button 
+2016-10-02 13:19:07,911 INFO  [Log] SignIn Action is successfully performed 
+2016-10-02 13:26:51,300 INFO  [Log] **************************************************************************************** 
+2016-10-02 13:26:51,300 INFO  [Log] **************************************************************************************** 
+2016-10-02 13:26:51,300 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 End2EndTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-10-02 13:26:51,300 INFO  [Log] **************************************************************************************** 
+2016-10-02 13:26:51,300 INFO  [Log] **************************************************************************************** 
+2016-10-02 13:26:51,644 INFO  [Log] Excel sheet opened 
+2016-10-02 13:26:51,644 INFO  [Log] Total number of Row used return as < 1 >. 
+2016-10-02 13:26:53,540 INFO  [Log] New driver instantiated 
+2016-10-02 13:26:53,555 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2016-10-02 13:27:09,150 INFO  [Log] Web application launched successfully 
+2016-10-02 13:27:09,947 INFO  [Log] My Account link is found on the Home Page 
+2016-10-02 13:27:10,013 INFO  [Log] Click action is performed on My Account link 
+2016-10-02 13:27:10,071 INFO  [Log] Sign_in link is found on the Home Page 
+2016-10-02 13:27:11,567 INFO  [Log] Click action is performed on SiginLink link 
+2016-10-02 13:27:11,576 INFO  [Log] Username text box is found on the Login Page 
+2016-10-02 13:27:11,887 INFO  [Log] smartsomasundar@gmail.com is entered in UserName text box 
+2016-10-02 13:27:11,999 INFO  [Log] Password text box is found on the Login page 
+2016-10-02 13:27:12,232 INFO  [Log] surya999 is entered in Password text box 
+2016-10-02 13:27:12,240 INFO  [Log] Sign In button is found on the Login page 
+2016-10-02 13:27:12,398 INFO  [Log] Click action is performed on Submit button 
+2016-10-02 13:27:12,398 INFO  [Log] SignIn Action is successfully performed 
+2016-10-02 13:27:16,702 INFO  [Log] Search box is found inside the Main Page 
+2016-10-02 13:27:16,789 INFO  [Log] One Dollar Candy is entered in Search box 
+2016-10-02 13:27:16,812 INFO  [Log] Search icon is clicked 
+2016-10-02 13:27:16,900 INFO  [Log] Search Icon is Clicked 
+2016-10-02 13:27:16,900 INFO  [Log] Landed into the product Listing Page 
+2016-10-02 13:27:16,900 INFO  [Log] Searching Successful 
+2016-10-02 13:28:26,857 INFO  [Log] The complete Title_Container is Selected 
+2016-10-02 13:28:33,992 INFO  [Log] Product Name is Found 
+2016-10-02 13:28:34,062 INFO  [Log] Product Name is Same 
+2016-10-02 13:28:34,439 INFO  [Log] Product Price is Available 
+2016-10-02 13:28:35,679 INFO  [Log] Product Price is Same 
+2016-10-02 13:28:35,685 INFO  [Log] AddtoCart Button is Available 
+2016-10-02 13:28:35,766 INFO  [Log] Add to Cart Button is Clicked 
+2016-10-02 13:28:36,250 INFO  [Log] Checkout Button is Found 
+2016-10-02 13:28:39,587 INFO  [Log] Checkout Button is Clicked 
+2016-10-02 13:28:39,803 INFO  [Log] Continue Button is Found 
+2016-10-02 13:28:41,336 INFO  [Log] First Name Text Box is Found 
+2016-10-02 13:28:41,844 INFO  [Log] Somasundaraprabhu is entered as First Name on the Payment detail page 
+2016-10-02 13:28:41,855 INFO  [Log] Last Name Text Box is Found 
+2016-10-02 13:28:42,299 INFO  [Log] Suryanarayanan is entered as Last Name on the Payment detail page 
+2016-10-02 13:28:42,409 INFO  [Log] PhoneNumber Text Box is Found 
+2016-10-02 13:28:42,748 INFO  [Log] (408)520-0476 is entered as Phone Number on the Payment detail page 
+2016-10-02 13:28:42,756 INFO  [Log] Street Address Text Box is Found 
+2016-10-02 13:28:43,099 INFO  [Log] 190 Ryland St is entered as Street Address on the Payment detail page 
+2016-10-02 13:28:43,105 INFO  [Log] Apt Text Box is Found 
+2016-10-02 13:28:43,183 INFO  [Log]  is entered as Appartment Number on the Payment detail page 
+2016-10-02 13:28:43,191 INFO  [Log] City Text Box is Found 
+2016-10-02 13:28:43,258 INFO  [Log] Apt Text Box is Found 
+2016-10-02 13:28:43,656 INFO  [Log] San Jose is entered as City  on the Payment detail page 
+2016-10-02 13:28:43,666 INFO  [Log] ZipCode Text Box is Found 
+2016-10-02 13:28:43,778 INFO  [Log] ZipCode Text Box is Found 
+2016-10-02 13:28:43,803 INFO  [Log]  is entered as ZipCode  on the Payment detail page 
+2016-10-02 16:19:04,777 ERROR [Log] Search box is not found inside the Main Page 
+2016-10-02 16:19:04,777 ERROR [Log] Error 
